@@ -1,0 +1,52 @@
+.img-svg{
+    text-align: center;
+    margin :auto;
+}
+img{
+    max-width: 50%;
+}
+header{
+    text-align: center;
+    margin : auto;
+    padding: 2rem 2rem;
+}
+textarea{
+    width : 50%;
+    height : 30vh;
+    margin-left :25%;
+    text-align: center;
+    border : solid black;
+}
+#btn-translate{
+    width :9rem;
+    height : 3rem;
+    margin-left:25%;
+    font-size: larger;
+    margin-top: 1rem;
+    margin-bottom : 2rem;
+}
+#txt-output{
+    width : 50%;
+    height : 30vh;
+    margin-left :25%;
+    text-align: center;
+    border : solid black;
+    background-color: white;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    padding-top: 1rem;
+    width : 50%;
+    margin : auto;
+}
+h3{
+    margin :auto;
+    padding-left :25%;
+    padding-top : 2rem;
+}
+body {
+    background-color: rgb(201, 200, 200);
+}
